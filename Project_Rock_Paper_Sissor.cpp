@@ -9,11 +9,9 @@ using namespace std;
 /*----Game is based on Computer vs Player----*/
 void R_P_S() 
  {
-     cout << "---------------------------\n" ;
      cout <<              "|"               ;
      cout <<              "|"               ;
      cout <<              "|"               ;
-     cout << "---------------------------\n" ;
  }
 
 int main()
